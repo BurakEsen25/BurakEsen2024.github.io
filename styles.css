@@ -1,3 +1,13 @@
+    header {
+      color:red;
+    }
+
+    p{color: blue;
+    }
+      
+   
+
+
 body {
     font-family: Arial, sans-serif;
     background-color: green;
@@ -10,7 +20,7 @@ body {
 
   footer {
     padding: 20px;
-    background-color: #854848;
+    background-color: white;
     text-align: center;
     font-size: 14px;
     color: #ffffff;
